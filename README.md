@@ -29,4 +29,4 @@ The dataset includes **Amazon sales transactions**, featuring columns such as:
 - Identify **top-selling products** and **high-revenue categories**  
 - Analyze **customer purchasing behavior**  
 - Detect **seasonal trends in sales**  
-- Perform **statistical insights on product ratings**  
+- Perform **statistical insights on product ratings** 
